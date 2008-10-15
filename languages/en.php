@@ -10,8 +10,8 @@
 	 */
 
 	$english = array(
-		'coppa:text' => 'I am over 13 years of age',
-		'coppa:fail' => 'You must be over 13 years of age to register for this website',
+		'coppa:text' => 'I am at least 13 years of age',
+		'coppa:fail' => 'You must be at least 13 years of age to register for this website',
 	);
 					
 	add_translation("en",$english);
