@@ -20,7 +20,7 @@
 		if ($coppa)
 			return true;
 			
-		register_error('coppa:fail');
+		register_error(elgg_echo('coppa:fail'));
 		return false;
 	}
 	
